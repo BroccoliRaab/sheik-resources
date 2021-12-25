@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Sheik Resources
 
-You can use the [editor on GitHub](https://github.com/BroccoliRaab/sheik-resources/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## External Resources Collections
+[Sheik Cookbook](https://melee.cookbook.gg/Sheik)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Resources in the Sheik discord
 
-### Markdown
+## Discords
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Sheik Discord by Cagliostro](https://discord.gg/tkwQs8v)
 
-```markdown
-Syntax highlighted code block
+[Sheik Savestate Discord by me](https://discord.gg/Z6Fd3D6KEg)
 
-# Header 1
-## Header 2
-### Header 3
+# Articles
+[Sheik Ledgedash Guide by Kadano](https://broccoliraab.github.io/Sheik-Ledgedash-Backup/)
 
-- Bulleted
-- List
+[Mechanics of Sheik Ledgedash by me](https://docs.google.com/document/d/197N8CdRzxsnyJi9FB7qppiy17UetokBTCEiFhLWL4DY/edit?usp=sharing)
 
-1. Numbered
-2. List
+[My Articles](broccoliraab.github.io/articles)
 
-**Bold** and _Italic_ and `Code` text
+# Charts
+[Sheik Shield Advantage by me](https://docs.google.com/spreadsheets/d/1ugzIbx9f2qbXrXgtV5BPXB76r-FPKbkG5y7prf008cg/edit?usp=sharing)
 
-[Link](url) and ![Image](src)
-```
+[Sheik Crouch Cancel And ASDI Down by Cagliostro](https://drive.google.com/open?id=1zRkJFi7RBoGdAVK5bDKtfzf1ghrp9-rerTCwhYu3MU8)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Tools
+[ikneedata knockback calculator](http://ikneedata.com/calculator.html)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BroccoliRaab/sheik-resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[MeleeDB by me](broccoliraab.github.io/meleedb)
